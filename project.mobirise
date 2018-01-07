@@ -130,6 +130,9 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "60px"
+            },
+            "P": {
+              "font-size": "14px"
             }
           },
           "_params": {
@@ -563,6 +566,9 @@
           "_styles": {
             "B": {
               "font-size": "60px"
+            },
+            "P": {
+              "font-size": "14px"
             }
           }
         },

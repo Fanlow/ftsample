@@ -740,6 +740,9 @@ blockquote {
 #tabs1-18 .mbr-section-title {
   font-size: 60px;
 }
+#tabs1-18 P {
+  font-size: 14px;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -815,6 +818,9 @@ blockquote {
 }
 #toggle1-y B {
   font-size: 60px;
+}
+#toggle1-y P {
+  font-size: 14px;
 }
 #shop1-1a .galleryItem h4:hover {
   color: #8e44ad;
